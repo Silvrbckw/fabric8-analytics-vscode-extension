@@ -192,7 +192,7 @@
   },
   "dependencies": {
     "fabric8-analytics-lsp-server": "0.1.37",
-    "request": "2.88.0",
+    "request": "2.88.2",
     "fs": "0.0.1-security",
     "path": "^0.12.7",
     "vscode-languageclient": "3.1.0"
